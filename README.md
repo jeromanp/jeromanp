@@ -35,7 +35,7 @@ y de herramientas como:
 
 En mi instancia dentro del bootcamp, he realizados tres proyectos:
 
-- Proyecto dentro del curso: Rick and Morty
+- Del curso: Rick and Morty
 - Proyecto Individual: Countries
 - Proyecto Grupal: IziQ Study
 
