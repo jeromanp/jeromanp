@@ -7,7 +7,7 @@ Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM
 
 🔭He realizado trabajos de mantenimiento, instalación, operación, supervisión, y administración sobre los sites (hubs) que proveen telecomunicaciones, dedicandome un par de años en dar soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando para una empresa que proveé servicios a nivel nacional. Tengo dos diplomados de Cisco (CCNA y CCNP) para la operacion, diseño y mantenimiento de redes.
 
-🌱 Actualmente me encuentro estudiando en bootcamp de _[Henry (ARG)] (https://www.soyhenry.com/)
+🌱 Actualmente me encuentro estudiando en bootcamp de _[Henry (ARG)](https://www.soyhenry.com/)
   <img width="25" height="auto"  src="https://avatars.githubusercontent.com/u/57154655?s=280&v=4" style="cursor:default">_ modalidad Full Time para la carrera de Desarrollador FullStack, en su etapa terminal, para aprender los conceptos básicos de programación y desarrollo web, acumulando más de *700 horas* entre clases, tareas y ejercicios prácticos, aprendiendo tecnologias como:
 
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="cursor:default">  HTML <br>
@@ -48,6 +48,7 @@ Me encuentro en una búsqueda laboral, donde pueda colaborar y poner en práctic
 
 - Email : jeduardo.roman69@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-rom%C3%A1n-pi%C3%B1a-02a1401bb/" target="_blank" > <img width="25" height="auto"  src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo-512x500.png"> </a>
+- WhatsApp : <a href="https://api.whatsapp.com/send?phone=5215515751939&text=Hola%20Eduardo%20%F0%9F%96%90%EF%B8%8F!%2C%20obtuve%20tu%20contacto%20desde%20tu%20repositorio%20de%20GitHub" target="_blank" > <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1022px-WhatsApp.svg.png"> </a>
 
 
 
