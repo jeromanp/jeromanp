@@ -1,11 +1,14 @@
-# Hola! , mi nombre es Jose Eduardo Roman 🙂.<br>
+# Hola! , mi nombre es Jose Eduardo Roman 🙂 <img width="200" height="auto" border-radius="20px" margin-right="20px" float="left" src="https://kwmjganrkoyleqdillhu.supabase.co/storage/v1/object/public/personal/Yo/img%20me_auto_x2.jpg"> <br>
 
 
-Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México 🇲🇽.<br>
-## 
-🔭He realizado trabajos de mantenimiento, instalación, operación, supervisión, y administración sobre los sites (hubs) que proveen telecomunicaciones, dedicandome un par de años en dar soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando para una empresa que proveé servicios a nivel nacional. Ta,bién he instalado CCTV y tengo nociones de operacion y mantenimiento de equipos de AA.
+Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg">  .<br>
+##
 
-🌱 Actualmente me encuentro estudiando en bootcamp de _Henry (ARG 🇦🇷)_ modalidad Full Time para la carrera de Desarrollador FullStack, en su etapa terminal, para aprender los conceptos básicos de programación y desarrollo web, acumulando más de *700 horas* entre clases, tareas y ejercicios prácticos, aprendiendo tecnologias como:
+
+🔭He realizado trabajos de mantenimiento, instalación, operación, supervisión, y administración sobre los sites (hubs) que proveen telecomunicaciones, dedicandome un par de años en dar soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando para una empresa que proveé servicios a nivel nacional. Tengo dos diplomados de Cisco (CCNA y CCNP) para la operacion, diseño y mantenimiento de redes.
+
+🌱 Actualmente me encuentro estudiando en bootcamp de _[Henry (ARG)](https://www.soyhenry.com/)
+  <img width="25" height="auto"  src="https://avatars.githubusercontent.com/u/57154655?s=280&v=4">_ modalidad Full Time para la carrera de Desarrollador FullStack, en su etapa terminal, para aprender los conceptos básicos de programación y desarrollo web, acumulando más de *700 horas* entre clases, tareas y ejercicios prácticos, aprendiendo tecnologias como:
 
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">  HTML <br>
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">  CSS <br>
@@ -32,9 +35,9 @@ y de herramientas como:
 
 En mi instancia dentro del bootcamp, he realizados tres proyectos:
 
-- Rick and Morty
-- Proyecto Individual Countries
-- Proyecto Grupal IziQ Study
+- Proyecto dentro del curso: Rick and Morty
+- Proyecto Individual: Countries
+- Proyecto Grupal: IziQ Study
 
 ##
 Me encuentro en una búsqueda laboral, donde pueda colaborar y poner en práctica todas las habilidades que he aprendido a lo largo de mi trayectoria como estudiante.
@@ -43,7 +46,8 @@ Me encuentro en una búsqueda laboral, donde pueda colaborar y poner en práctic
 
 📫 Me puedes contactar por: 
 
--
+- Email : jeduardo.roman69@gmail.com
+- Linkedin : <a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-rom%C3%A1n-pi%C3%B1a-02a1401bb/"> <img width="25" height="auto"  src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo-512x500.png"> </a>
 
 
 
