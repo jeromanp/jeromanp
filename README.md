@@ -30,17 +30,19 @@ y de herramientas como:
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" style="cursor:default">   NPM
 - <img width="25" height="auto"  src="https://www.svgrepo.com/show/353904/insomnia.svg" style="cursor:default">  Insomnia
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="cursor:default"> Visual Studio Code
+- Metodología SCRUM
 
 ##
 
-En mi instancia dentro del bootcamp, he realizados tres proyectos:
+En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 
 - Del curso: Rick and Morty
 - Proyecto Individual: Countries
 - Proyecto Grupal: IziQ Study
+- Proyecto Grupal: Cabañas Hueney Ruca
 
 ##
-Me encuentro en una búsqueda laboral, donde pueda colaborar y poner en práctica todas las habilidades que he aprendido a lo largo de mi trayectoria como estudiante.
+Actualmente estoy buscando una oferta laboral en donde pueda demostrar mis habilidades. 
 
 ## Contacto
 
