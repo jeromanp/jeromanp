@@ -1,11 +1,17 @@
 # Hola! , mi nombre es Jose Eduardo Roman 🙂<br>
 
+#¿Quien soy?
 
 Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" style="cursor:default">  .<br>
 ##
 
+#Tengo experiencia en
 
 🔭He realizado trabajos de mantenimiento, instalación, operación, supervisión, y administración sobre los sites (hubs) que proveen telecomunicaciones, dedicandome un par de años en dar soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando para una empresa que proveé servicios a nivel nacional. Tengo dos diplomados de Cisco (CCNA y CCNP) para la operacion, diseño y mantenimiento de redes.
+
+#¿Porque el elegi el mundo TI?
+
+Desde mi etapa de estudiante de nivel superior, siempre tuve la intención de aprender a programar, pero en su momento tenía el tabú, de que no podía o incluso que eso no era para mi. Al paso de algunos años tuve la fortuna de conocer _[Henry (ARG)](https://www.soyhenry.com/)_ y no dude en darle un cambio a mi vida y entrar en este maravilloso mundo.
 
 🌱 Actualmente me encuentro estudiando en bootcamp de _[Henry (ARG)](https://www.soyhenry.com/)
   <img width="25" height="auto"  src="https://avatars.githubusercontent.com/u/57154655?s=280&v=4" style="cursor:default">_ modalidad Full Time para la carrera de Desarrollador FullStack, en su etapa terminal, para aprender los conceptos básicos de programación y desarrollo web, acumulando más de *700 horas* entre clases, tareas y ejercicios prácticos, aprendiendo tecnologias como:
@@ -32,7 +38,7 @@ y de herramientas como:
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="cursor:default"> Visual Studio Code
 - Metodología SCRUM
 
-##
+#Algunos de mis proyectos en mi instancia del bootcamp
 
 En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 
@@ -41,8 +47,9 @@ En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 - Proyecto Grupal: IziQ Study
 - Proyecto Grupal: Cabañas Hueney Ruca
 
-##
-Actualmente estoy buscando una oferta laboral en donde pueda demostrar mis habilidades. 
+## ¿Hacía donde voy?
+Actualmente estoy buscando una oferta laboral en donde pueda demostrar mis habilidades.
+Espero con gran ansias una oferta que me permita iniciar mi experiencia como desarrollador fullstack y en la que pueda crecer profesionalmente de la mano de compañeros de trabajo.
 
 ## Contacto
 
