@@ -1,15 +1,17 @@
-# Hola! , mi nombre es Jose Eduardo Roman 🙂<br>
+## Hola! , mi nombre es Jose Eduardo Roman 🙂<br>
 
-#¿Quien soy?
+##¿Quien soy?
 
 Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" style="cursor:default">  .<br>
 ##
 
-#Tengo experiencia en
+##Tengo experiencia en
 
-🔭He realizado trabajos de mantenimiento, instalación, operación, supervisión, y administración sobre los sites (hubs) que proveen telecomunicaciones, dedicandome un par de años en dar soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando para una empresa que proveé servicios a nivel nacional. Tengo dos diplomados de Cisco (CCNA y CCNP) para la operacion, diseño y mantenimiento de redes.
+🔭He realizado trabajos de mantenimiento, instalación, operación, supervisión, y administración sobre los sites (hubs) que proveen telecomunicaciones, dedicandome un par de años en dar soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando para una empresa que proveé servicios a nivel nacional. 
 
-#¿Porque el elegi el mundo TI?
+Tengo dos diplomados de Cisco (CCNA y CCNP) para la operacion, diseño y mantenimiento de redes.
+
+##¿Porque el elegi el mundo TI?
 
 Desde mi etapa de estudiante de nivel superior, siempre tuve la intención de aprender a programar, pero en su momento tenía el tabú, de que no podía o incluso que eso no era para mi. Al paso de algunos años tuve la fortuna de conocer _[Henry (ARG)](https://www.soyhenry.com/)_ y no dude en darle un cambio a mi vida y entrar en este maravilloso mundo.
 
@@ -38,7 +40,7 @@ y de herramientas como:
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="cursor:default"> Visual Studio Code
 - Metodología SCRUM
 
-#Algunos de mis proyectos en mi instancia del bootcamp
+##Proyectos
 
 En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 
