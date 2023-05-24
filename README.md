@@ -1,9 +1,8 @@
-## Hola! , mi nombre es Jose Eduardo Roman 🙂<br>
+## Hola! , mi nombre es Jose Eduardo Roman 🙂 
 
 ## ¿Quien soy?
 
 Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" style="cursor:default">  .<br>
-##
 
 ## Tengo experiencia en
 
