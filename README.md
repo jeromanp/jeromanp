@@ -1,18 +1,15 @@
-## Hola! , mi nombre es Jose Eduardo Roman 🙂 
+## ¡Hola! Mi nombre es Jose Eduardo Roman 🙂 
 
-## ¿Quien soy?
+## ¿Quién soy?
+Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México 🇲🇽.
 
-Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg" style="cursor:default">  .<br>
+## Experiencia
+🔭 He realizado trabajos de mantenimiento, instalación, operación, supervisión y administración en los sites (hubs) que proveen telecomunicaciones. Durante un par de años, brindé soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando en una empresa de servicios a nivel nacional.
 
-## Tengo experiencia en
+Tengo dos diplomados de Cisco (CCNA y CCNP) para la operación, diseño y mantenimiento de redes.
 
-🔭He realizado trabajos de mantenimiento, instalación, operación, supervisión, y administración sobre los sites (hubs) que proveen telecomunicaciones, dedicandome un par de años en dar soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando para una empresa que proveé servicios a nivel nacional. 
-
-Tengo dos diplomados de Cisco (CCNA y CCNP) para la operacion, diseño y mantenimiento de redes.
-
-## ¿Porque el elegi el mundo TI?
-
-Desde mi etapa de estudiante de nivel superior, siempre tuve la intención de aprender a programar, pero en su momento tenía el tabú, de que no podía o incluso que eso no era para mi. Al paso de algunos años tuve la fortuna de conocer _[Henry (ARG)](https://www.soyhenry.com/)_ y no dude en darle un cambio a mi vida y entrar en este maravilloso mundo.
+## Por qué elegí el mundo de la tecnología
+Desde mi etapa de estudiante, siempre tuve la intención de aprender a programar, pero en su momento tenía el tabú de que no podía hacerlo o que no era para mí. Afortunadamente, conocí _[Henry (ARG)](https://www.soyhenry.com/)_ hace algunos años, y decidí darle un giro a mi vida y sumergirme en este maravilloso mundo.
 
 🌱 Actualmente me encuentro estudiando en bootcamp de _[Henry (ARG)](https://www.soyhenry.com/)
   <img width="25" height="auto"  src="https://avatars.githubusercontent.com/u/57154655?s=280&v=4" style="cursor:default">_ modalidad Full Time para la carrera de Desarrollador FullStack, en su etapa terminal, para aprender los conceptos básicos de programación y desarrollo web, acumulando más de *700 horas* entre clases, tareas y ejercicios prácticos, aprendiendo tecnologias como:
@@ -48,9 +45,8 @@ En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 - Proyecto Grupal: IziQ Study
 - Proyecto Grupal: Cabañas Hueney Ruca
 
-## ¿Hacía donde voy?
-Actualmente estoy buscando una oferta laboral en donde pueda demostrar mis habilidades.
-Espero con gran ansias una oferta que me permita iniciar mi experiencia como desarrollador fullstack y en la que pueda crecer profesionalmente de la mano de compañeros de trabajo.
+## Mis metas
+En la actualidad, estoy buscando oportunidades laborales que me permitan demostrar mis habilidades como desarrollador FullStack. Estoy emocionado por iniciar mi carrera profesional y crecer junto a mis futuros compañeros de trabajo.
 
 ## Contacto
 
