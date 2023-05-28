@@ -56,6 +56,8 @@ En la actualidad, estoy buscando oportunidades laborales que me permitan demostr
 - Linkedin : <a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-rom%C3%A1n-pi%C3%B1a-02a1401bb/" target="_blank" > <img width="25" height="auto"  src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo-512x500.png"> </a>
 - WhatsApp : <a href="https://api.whatsapp.com/send?phone=5215515751939&text=Hola%20Eduardo%20%F0%9F%96%90%EF%B8%8F!%2C%20obtuve%20tu%20contacto%20desde%20tu%20repositorio%20de%20GitHub" target="_blank" > <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1022px-WhatsApp.svg.png"> </a>
 
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=jeromanp&label=Visitas%20perfil:&color=FF335B&style=flat" alt="jeromanp"/> </p>
+
 
 
 <!--
