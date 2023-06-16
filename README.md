@@ -47,7 +47,7 @@ En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 
 - Del curso: [Rick and Morty](https://rick-and-morty-jeromanp.vercel.app/)
 - Proyecto Individual: [Countries](https://pi-countries-jeromanp.vercel.app/)
-- Proyecto Grupal: IziQ Study
+- Proyecto Grupal: [IziQ Study](https://izi-q-study7.vercel.app/)
 - Proyecto Grupal: [Cabañas Hueney Ruca](https://hueney-ruca-henry.vercel.app/)
 
 ## Mis metas
