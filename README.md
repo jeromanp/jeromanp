@@ -45,10 +45,10 @@ y de herramientas como:
 
 En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 
-- Del curso: Rick and Morty
-- Proyecto Individual: Countries
+- Del curso: [Rick and Morty](https://rick-and-morty-jeromanp.vercel.app/){:target="_blank"}
+- Proyecto Individual: [Countries](https://pi-countries-jeromanp.vercel.app/){:target="_blank"}
 - Proyecto Grupal: IziQ Study
-- Proyecto Grupal: Cabañas Hueney Ruca
+- Proyecto Grupal: [Cabañas Hueney Ruca](https://hueney-ruca-henry.vercel.app/){:target="_blank"}
 
 ## Mis metas
 En la actualidad, estoy buscando oportunidades laborales que me permitan demostrar mis habilidades como desarrollador FullStack. Estoy emocionado por iniciar mi carrera profesional y crecer junto a mis futuros compañeros de trabajo.
