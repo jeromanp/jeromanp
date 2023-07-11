@@ -1,13 +1,18 @@
-## ¡Hola! Mi nombre es Jose Eduardo Roman 🙂 
+# ¡Hola! Mi nombre es Jose Eduardo Roman 🙂 
+
+---
 
 ## ¿Quién soy?
-Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México 🇲🇽.
 
+Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México 🇲🇽
+
+---
 ## Experiencia
 🔭 He realizado trabajos de mantenimiento, instalación, operación, supervisión y administración en los sites (hubs) que proveen telecomunicaciones. Durante un par de años, brindé soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando en una empresa de servicios a nivel nacional.
 
 Tengo dos diplomados de Cisco (CCNA y CCNP) para la operación, diseño y mantenimiento de redes.
 
+---
 ## Por qué elegí el mundo de la tecnología
 Desde mi etapa de estudiante, siempre tuve la intención de aprender a programar, pero en su momento tenía el tabú de que no podía hacerlo o que no era para mí. Afortunadamente, conocí _[Henry (ARG)](https://www.soyhenry.com/)_ hace algunos años, y decidí darle un giro a mi vida y sumergirme en este maravilloso mundo.
 
@@ -35,12 +40,14 @@ y de herramientas como:
 - <img width="25" height="auto"  src="https://www.svgrepo.com/show/353904/insomnia.svg" style="cursor:default">  Insomnia
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="cursor:default"> Visual Studio Code
 - Metodología SCRUM
-
+  
+---
 ## Mis estadísticas de Github
 
 <p><img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeromanp&show_icons=true&locale=en&layout=compact&bg_color=A6C2CC&text_color=000000&title_color=052936&hide_border=true%22%20alt=%22jeroman%22" /> </p>
 <p><img aling="center" src="https://github-readme-stats.vercel.app/api?username=jeromanp&show_icons=true&locale=en&bg_color=A6C2CC&text_color=000000&hide_border=true&icon_color=F77808&title_color=052936%20alt=%22jeromanp%22"/> </p>
 
+---
 ## Proyectos
 
 En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
@@ -50,9 +57,11 @@ En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 - Proyecto Grupal: [IziQ Study](https://izi-q-study7.vercel.app/)
 - Proyecto Grupal: [Cabañas Hueney Ruca](https://hueney-ruca-henry.vercel.app/)
 
+---
 ## Mis metas
 En la actualidad, estoy buscando oportunidades laborales que me permitan demostrar mis habilidades como desarrollador FullStack. Estoy emocionado por iniciar mi carrera profesional y crecer junto a mis futuros compañeros de trabajo.
 
+---
 ## Contacto
 
 📫 Me puedes contactar por: 
