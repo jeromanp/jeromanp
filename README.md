@@ -4,7 +4,7 @@
 
 ## ¿Quién soy?
 
-Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México 🇲🇽
+Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México y recientemente Desarrollador Fullstack por el Bootcamp de Henry (ARG)
 
 ---
 ## Experiencia
