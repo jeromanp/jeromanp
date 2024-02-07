@@ -59,9 +59,9 @@ En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 
 Después de conlcuir el bootcamp he desarrollado estos proyectos, que me han permitido aprender aún más y reforzar mis conocimientos
 
-- Mi Portfolio: [Rick and Morty](https://www.jeromanp.website/)
+- Mi Portfolio: [Portfolio](https://www.jeromanp.website/)
 - R&R Perfumes: [R&R](https://ryrperfumes.vercel.app/)
-- Blog con Notion: [Blog Notion](https://nextjs-notion-ruby.vercel.app/)
+- Blog con Notion: [Blog](https://nextjs-notion-ruby.vercel.app/)
 - Ecommerce con Sanity: [Ecommerce](https://ecommerce-next-sanity-wine.vercel.app/)
 - Landing Page con Figma y Locofy: [Figma y Locofy](https://landingpage-locofy.vercel.app/)
 
