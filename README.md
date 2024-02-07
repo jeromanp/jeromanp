@@ -55,7 +55,15 @@ En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 - Del curso: [Rick and Morty](https://rick-and-morty-jeromanp.vercel.app/)
 - Proyecto Individual: [Countries](https://pi-countries-jeromanp.vercel.app/)
 - Proyecto Grupal: [IziQ Study](https://izi-q-study7.vercel.app/)
-- Proyecto Grupal: [Cabañas Hueney Ruca](https://hueney-ruca-henry.vercel.app/)
+- Proyecto Grupal: [Cabañas Hueney Ruca](https://hueney-ruca-pf.vercel.app/)
+
+Después de conlcuir el bootcamp he desarrollado estos proyectos, que me han permitido aprender aún más y reforzar mis conocimientos
+
+- Mi Portfolio: [Rick and Morty](https://www.jeromanp.website/)
+- R&R Perfumes: [R&R](https://ryrperfumes.vercel.app/)
+- Blog con Notion: [Blog Notion](https://nextjs-notion-ruby.vercel.app/)
+- Ecommerce con Sanity: [Ecommerce](https://ecommerce-next-sanity-wine.vercel.app/)
+- Landing Page con Figma y Locofy: [Figma y Locofy](https://landingpage-locofy.vercel.app/)
 
 ---
 ## Mis metas
