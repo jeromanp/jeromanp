@@ -27,7 +27,7 @@ Desde mi etapa de estudiante, siempre tuve la intención de aprender a programar
 - <img width="25" height="auto"  src="![image](https://user-images.githubusercontent.com/112742684/230303237-6b48db29-67e5-44d3-9a9b-4ffdc85d2bee.png)" style="cursor:default">  Express
 - <img width="25" height="auto"  src="https://www.svgrepo.com/show/354333/sequelize.svg" style="cursor:default">  Sequelize
 - <img width="25" height="auto"  src="https://www.postgresql.org/media/img/about/press/elephant.png" style="cursor:default">  PostgreSQL
-- <img width="25" height="auto"  src="![image](https://user-images.githubusercontent.com/112742684/230299913-3ae28a67-f7b2-4459-9dd0-fdf257918ffe.png" style="cursor:default">  Next JS
+- <img width="25" height="auto"  src="![image](https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp" style="cursor:default">  Next JS
 - <img width="25" height="auto"  src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" style="cursor:default">  Supabase
 - <img width="25" height="auto"  src="https://img.stackshare.io/service/12421/rzylUjaf_400x400.jpg" style="cursor:default">  Chakra
 
