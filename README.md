@@ -24,7 +24,7 @@ Desde mi etapa de estudiante, siempre tuve la intención de aprender a programar
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="cursor:default">  JavaScript <br>
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" style="cursor:default">  React <br>
 - <img width="25" height="auto"  src="https://cdn.worldvectorlogo.com/logos/redux.svg" style="cursor:default">  Redux <br>
-- <img width="25" height="auto"  src="![image](https://user-images.githubusercontent.com/112742684/230303237-6b48db29-67e5-44d3-9a9b-4ffdc85d2bee.png)" style="cursor:default">  Express
+- <img width="25" height="auto"  src="https://ih1.redbubble.net/image.438908244.6144/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" style="cursor:default">  Express
 - <img width="25" height="auto"  src="https://www.svgrepo.com/show/354333/sequelize.svg" style="cursor:default">  Sequelize
 - <img width="25" height="auto"  src="https://www.postgresql.org/media/img/about/press/elephant.png" style="cursor:default">  PostgreSQL
 - <img width="25" height="auto"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsnwAJtBWl41ZIGBQ1HESUMATk2xSl5n9PYbyP160FSuERbpDcRz5kuT0TpizPjXCfoXQ&usqp=CAU" style="cursor:default">  Next JS
