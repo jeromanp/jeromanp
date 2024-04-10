@@ -16,8 +16,8 @@ Tengo dos diplomados de Cisco (CCNA y CCNP) para la operación, diseño y manten
 ## Por qué elegí el mundo de la tecnología
 Desde mi etapa de estudiante, siempre tuve la intención de aprender a programar, pero en su momento tenía el tabú de que no podía hacerlo o que no era para mí. Afortunadamente, conocí _[Henry (ARG)](https://www.soyhenry.com/)_ hace algunos años, y decidí darle un giro a mi vida y sumergirme en este maravilloso mundo.
 
-🌱 Actualmente me encuentro estudiando en bootcamp de _[Henry (ARG)](https://www.soyhenry.com/)
-  <img width="25" height="auto"  src="https://avatars.githubusercontent.com/u/57154655?s=280&v=4" style="cursor:default">_ modalidad Full Time para la carrera de Desarrollador FullStack, en su etapa terminal, para aprender los conceptos básicos de programación y desarrollo web, acumulando más de *700 horas* entre clases, tareas y ejercicios prácticos, aprendiendo tecnologias como:
+🌱 Estudié el bootcamp de _[Henry (ARG)](https://www.soyhenry.com/)
+  <img width="25" height="auto"  src="https://avatars.githubusercontent.com/u/57154655?s=280&v=4" style="cursor:default">_ modalidad Full Time para la carrera de Desarrollador FullStack para aprender los conceptos básicos de programación y desarrollo web, acumulando más de *700 horas* entre clases, tareas y ejercicios prácticos, aprendiendo tecnologias como:
 
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="cursor:default">  HTML <br>
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" style="cursor:default">  CSS <br>
@@ -40,9 +40,13 @@ y de herramientas como:
 - <img width="25" height="auto"  src="https://www.svgrepo.com/show/353904/insomnia.svg" style="cursor:default">  Insomnia
 - <img width="25" height="auto"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" style="cursor:default"> Visual Studio Code
 - Metodología SCRUM
+
+  Algo que me agrada del mundo de TI es la contante evolución e incorporación de nuevas tecnologías, algo que sin duda desde mi estapa estudiantil disfrutaba, me fascina aprender ccosas nuevas sobre todo que esten en tendencia. Una razón más para orientarme hacía esta profesión.
   
 ---
 ## Mis estadísticas de Github
+
+A continuación se muestran parte de mis aportaciones/colaboraciones en Github, contantemente practico mis conocimeintos y aprendo nuevas tecnologías.
 
 <p><img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeromanp&show_icons=true&locale=en&layout=compact&bg_color=A6C2CC&text_color=000000&title_color=052936&hide_border=true%22%20alt=%22jeroman%22" /> </p>
 <p><img aling="center" src="https://github-readme-stats.vercel.app/api?username=jeromanp&show_icons=true&locale=en&bg_color=A6C2CC&text_color=000000&hide_border=true&icon_color=F77808&title_color=052936%20alt=%22jeromanp%22"/> </p>
