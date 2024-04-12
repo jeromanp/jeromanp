@@ -4,17 +4,17 @@
 
 ## ¿Quién soy?
 
-Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México y recientemente Desarrollador Fullstack por el Bootcamp de Henry (ARG)
+Soy Ingeniero en Telecomunicaciones, Sistemas y Electrónica egresado de la UNAM en México y recientemente Desarrollador Fullstack por el Bootcamp de Henry (ARG).
 
 ---
 ## Experiencia
-🔭 He realizado trabajos de mantenimiento, instalación, operación, supervisión y administración en los sites (hubs) que proveen telecomunicaciones. Durante un par de años, brindé soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando en una empresa de servicios a nivel nacional.
+🔭 He realizado trabajos de mantenimiento, instalación, operación, supervisión y administración en los sites (hubs) que proveen telecomunicaciones. Durante un par de años, brindé soporte 24/7 a los servicios de cable, voz y datos para un sector del Estado de México, trabajando en una empresa de servicio de telecomunicaciones a nivel nacional.
 
 Tengo dos diplomados de Cisco (CCNA y CCNP) para la operación, diseño y mantenimiento de redes.
 
 ---
 ## Por qué elegí el mundo de la tecnología
-Desde mi etapa de estudiante, siempre tuve la intención de aprender a programar, pero en su momento tenía el tabú de que no podía hacerlo o que no era para mí. Afortunadamente, conocí _[Henry (ARG)](https://www.soyhenry.com/)_ hace algunos años, y decidí darle un giro a mi vida y sumergirme en este maravilloso mundo.
+Desde mi etapa de estudiante, siempre tuve la intención de aprender a programar, pero en su momento tenía el tabú de que era algo muy complicado y que no era para mí. Afortunadamente, conocí _[Henry (ARG)](https://www.soyhenry.com/)_ hace algunos años, y decidí darle un giro a mi vida y sumergirme en este maravilloso mundo.
 
 🌱 Estudié el bootcamp de _[Henry (ARG)](https://www.soyhenry.com/)
   <img width="25" height="auto"  src="https://avatars.githubusercontent.com/u/57154655?s=280&v=4" style="cursor:default">_ modalidad Full Time para la carrera de Desarrollador FullStack para aprender los conceptos básicos de programación y desarrollo web, acumulando más de *700 horas* entre clases, tareas y ejercicios prácticos, aprendiendo tecnologias como:
