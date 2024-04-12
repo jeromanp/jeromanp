@@ -61,7 +61,7 @@ En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
 - Proyecto Grupal: [IziQ Study](https://izi-q-study7.vercel.app/)
 - Proyecto Grupal: [Cabañas Hueney Ruca](https://hueney-ruca-pf.vercel.app/)
 
-Después de conlcuir el bootcamp he desarrollado estos proyectos, que me han permitido aprender aún más y reforzar mis conocimientos
+Después de conlcuir el bootcamp he desarrollado estos proyectos, que me han permitido aprender aún más y reforzar mis conocimientos:
 
 - Mi Portfolio: [Portfolio](https://www.jeromanp.website/)
 - R&R Perfumes: [R&R](https://ryrperfumes.vercel.app/)
@@ -72,7 +72,7 @@ Después de conlcuir el bootcamp he desarrollado estos proyectos, que me han per
 
 ---
 ## Mis metas
-En la actualidad, estoy buscando oportunidades laborales que me permitan demostrar mis habilidades como desarrollador FullStack. Estoy emocionado por iniciar mi carrera profesional y crecer junto a mis futuros compañeros de trabajo.
+En la actualidad, estoy buscando una oportunidad laboral que me permitan demostrar mis habilidades y conocimientos como desarrollador FullStack.
 
 ---
 ## Contacto
