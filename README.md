@@ -55,25 +55,6 @@ A continuación se muestran parte de mis aportaciones/colaboraciones en Github, 
 <p><img aling="center" src="https://github-readme-stats.vercel.app/api?username=jeromanp&show_icons=true&locale=en&bg_color=A6C2CC&text_color=000000&hide_border=true&icon_color=F77808&title_color=052936%20alt=%22jeromanp%22"/> </p>
 
 ---
-## Proyectos
-
-En mi instancia dentro del bootcamp, he realizados cuatro proyectos:
-
-- Del curso: [Rick and Morty](https://rick-and-morty-jeromanp.vercel.app/)
-- Proyecto Individual: [Countries](https://pi-countries-jeromanp.vercel.app/)
-- Proyecto Grupal: [IziQ Study](https://izi-q-study7.vercel.app/)
-- Proyecto Grupal: [Cabañas Hueney Ruca](https://hueney-ruca-pf.vercel.app/)
-
-Después de conlcuir el bootcamp he desarrollado estos proyectos, que me han permitido aprender aún más y reforzar mis conocimientos:
-
-- Mi Portfolio: [Portfolio](https://www.jeromanp.website/)
-- R&R Perfumes: [R&R](https://ryrperfumes.vercel.app/)
-- Blog con Notion: [Blog](https://nextjs-notion-ruby.vercel.app/)
-- Ecommerce con Sanity: [Ecommerce](https://ecommerce-next-sanity-wine.vercel.app/)
-- Landing Page con Figma y Locofy: [Figma y Locofy](https://landingpage-locofy.vercel.app/)
-- FEHPAG: [Fehpag](https://fehpag.com/)
-
----
 ## Mis metas
 En la actualidad, estoy buscando una oportunidad laboral que me permitan demostrar mis habilidades y conocimientos como desarrollador FullStack.
 
